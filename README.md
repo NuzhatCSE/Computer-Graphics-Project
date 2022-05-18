@@ -4,11 +4,12 @@
 
 # Features:
 1)First I have installed GLUT.Then I have created a GLUT project by following these few steps-
-![CGM1](https://user-images.githubusercontent.com/85027870/169043244-271bc6d8-9b06-4e93-bc03-5a176cc920c2.png)
-![CGM2](https://user-images.githubusercontent.com/85027870/169043373-d3442a51-b051-4642-b40e-1fb87ad469e5.png)
-![CGM3](https://user-images.githubusercontent.com/85027870/169043486-56ca823c-1ef5-491f-987a-9dcbf44a10bf.png)
-![CGM4](https://user-images.githubusercontent.com/85027870/169043544-51cffa03-0e75-4772-829d-ea52905f0b01.png)
-![CGM5](https://user-images.githubusercontent.com/85027870/169043618-86b603a0-fc28-49b4-8f16-1f815a127a7d.png)
+![CGM1 (2)](https://user-images.githubusercontent.com/85027870/169045839-e44f23a7-3853-48ea-b415-4802dc8fb4dc.png)
+![CGM2 (2)](https://user-images.githubusercontent.com/85027870/169045891-07796411-df11-4a14-b786-4fd6a3c98347.png)
+![CGM3 (2)](https://user-images.githubusercontent.com/85027870/169045973-2bc3e1da-219b-40a5-879f-6c3ff407e182.png)
+![CGM4 (2)](https://user-images.githubusercontent.com/85027870/169046045-5506f236-2bff-44bb-aa47-1467c614428b.png)
+![CGM5 (2)](https://user-images.githubusercontent.com/85027870/169046088-2b7f0ff1-c3e0-4c9a-88a5-c0ba051889fe.png)
+
 
 
 
