@@ -12,7 +12,8 @@
 
 ![CGM4 (2)](https://user-images.githubusercontent.com/85027870/169046045-5506f236-2bff-44bb-aa47-1467c614428b.png)
 
-![CGM5(2)](https://user-images.githubusercontent.com/8502870/169046088-2b7f0ff1-c3e0-4c9a-88a5-c0ba051889fe.png)
+![CGM5 (2)](https://user-images.githubusercontent.com/85027870/169047005-f4726b69-6e91-4593-ae9f-934d024bd136.png)
+
 
 
 
