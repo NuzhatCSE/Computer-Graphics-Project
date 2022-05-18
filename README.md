@@ -5,10 +5,14 @@
 # Features:
 1)First I have installed GLUT.Then I have created a GLUT project by following these few steps-
 ![CGM1 (2)](https://user-images.githubusercontent.com/85027870/169045839-e44f23a7-3853-48ea-b415-4802dc8fb4dc.png)
+
 ![CGM2 (2)](https://user-images.githubusercontent.com/85027870/169045891-07796411-df11-4a14-b786-4fd6a3c98347.png)
+
 ![CGM3 (2)](https://user-images.githubusercontent.com/85027870/169045973-2bc3e1da-219b-40a5-879f-6c3ff407e182.png)
+
 ![CGM4 (2)](https://user-images.githubusercontent.com/85027870/169046045-5506f236-2bff-44bb-aa47-1467c614428b.png)
-![CGM5 (2)](https://user-images.githubusercontent.com/85027870/169046088-2b7f0ff1-c3e0-4c9a-88a5-c0ba051889fe.png)
+
+![CGM5(2)](https://user-images.githubusercontent.com/8502870/169046088-2b7f0ff1-c3e0-4c9a-88a5-c0ba051889fe.png)
 
 
 
