@@ -18,7 +18,7 @@
 
 ![CGM5 (2)](https://user-images.githubusercontent.com/85027870/169047005-f4726b69-6e91-4593-ae9f-934d024bd136.png)
 
-2) Then I have started writing C program in main.c file for creating the house.The house has-
+2) Then I have started writing C++ program in main.cpp file for creating the house.The house has-
    One roof with lines,
    One front roof,
    One front wall and a door,
@@ -26,7 +26,7 @@
    One corridor and
    One entrance to the corridor and the door.
    
-C program for adding each part of the house after one another and their output are like these-
+C++ program for adding each part of the house after one another and their output are like these-
 ![CGM7](https://user-images.githubusercontent.com/85027870/169051231-5c608239-409c-48ea-b304-20d51f810bf8.png)
 
 
